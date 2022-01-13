@@ -274,3 +274,9 @@ form {
   font-size: 12px;
   text-decoration: underline;
 }
+
+footer {
+  width: 100%;  
+  display: flex;
+  justify-content: center;
+}
